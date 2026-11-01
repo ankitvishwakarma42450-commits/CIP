@@ -1,0 +1,2 @@
+# CIP
+Crowd Intelligence platform
